@@ -319,7 +319,7 @@ function search() {
     if (elements[i].innerHTML.toLowerCase().includes(term.toLowerCase())) {
       // Highlight the search term
       var html = elements[i].innerHTML;
-      var newHtml = html.replace(new RegExp(term, "gi"), "<span class='highlight'>" + term + "</span>");
+      var newHtml = html.replace(new RegExp(term, "gi"), "<span style='background-color:yellow'>" + term + "</span>");
       elements[i].innerHTML = newHtml;
 
       // Scroll to the first occurrence of the search term
