@@ -1,0 +1,114 @@
+===========================================================================================================================================================================================
+*BIR AIRSPACE FILE - UNOFFICIAL
+DATED - 14-09-2024
+
+DISCLAIMER- This airspace file is provided for informational purposes only and is unofficial.
+            It has not been verified or endorsed by any aviation authority. 
+			The creators and distributors of this file make no warranties or guarantees, express or implied, regarding the accuracy, completeness, or fitness for any particular purpose. 
+            By using this file, you assume all responsibility for ensuring compliance with applicable regulations and the safety of flight operations. 
+			Use at your own risk.
+			=================================================================================================================
+AC R
+AN R DALAI 
+AL GND
+AH FL 90
+DP 32:14:55 N76:19:26 E
+DP 32:14:52 N76:19:59 E
+DP 32:14:27 N76:20:23 E
+DP 32:13:04 N76:20:05 E
+DP 32:12:54 N76:19:26 E
+DP 32:13:12 N76:18:35 E
+DP 32:14:13 N76:18:07 E
+
+AC R
+AN R MANDI
+AL GND
+AH FL 46
+DP 31:40:26 N76:54:54 E
+DP 31:40:27 N76:57:12 E
+DP 31:42:09 N76:58:13 E
+DP 31:42:43 N76:57:01 E
+DP 31:44:53 N76:56:45 E
+DP 31:43:54 N76:55:16 E
+
+AC R
+AN NOLAND-MILTRY
+AL GND
+AH FL 40
+DP 32:04:13 N76:36:06 E
+DP 32:04:03 N76:36:10 E
+DP 32:04:01 N76:36:24 E
+DP 32:03:43 N76:36:45 E
+DP 32:03:24 N76:37:06 E
+DP 32:03:27 N76:37:11 E
+DP 32:03:48 N76:36:55 E
+DP 32:04:10 N76:36:39 E
+DP 32:04:15 N76:36:40 E
+DP 32:04:22 N76:36:26 E
+DP 32:04:27 N76:36:27 E
+DP 32:04:37 N76:36:07 E
+DP 32:04:15 N76:36:01 E
+
+AC R
+AN R DALHO Z
+AL GND
+AH UNLIMITED
+DP 32:28:40 N76:02:27 E
+DP 32:30:03 N76:04:37 E
+DP 32:33:18 N76:05:05 E
+DP 32:35:52 N75:59:20 E
+DP 32:30:21 N75:52:07 E
+DP 32:27:06 N75:55:56 E
+DP 32:28:34 N75:58:19 E
+DP 32:28:40 N76:02:27 E
+
+AC R
+AN NOLAND YOL MIL
+AL GND
+AH FL 52
+DP 32:10:58 N76:22:29 E
+DP 32:10:34 N76:22:21 E
+DP 32:10:11 N76:22:35 E
+DP 32:09:56 N76:22:33 E
+DP 32:09:52 N76:22:41 E
+DP 32:10:08 N76:22:53 E
+DP 32:10:24 N76:23:05 E
+DP 32:10:29 N76:23:16 E
+DP 32:10:41 N76:23:22 E
+DP 32:11:04 N76:23:16 E
+DP 32:11:24 N76:23:20 E
+DP 32:12:02 N76:23:36 E
+DP 32:11:59 N76:23:23 E
+DP 32:11:41 N76:23:04 E
+DP 32:11:37 N76:22:31 E
+DP 32:10:58 N76:22:29 E
+DP 32:10:58 N76:22:29 E
+
+AC R
+AN NOLAND PALMPUR MIL
+AL GND
+AH FL 52
+DP 32:06:11 N76:32:36 E
+DP 32:05:58 N76:32:47 E
+DP 32:06:04 N76:33:15 E
+DP 32:05:56 N76:33:48 E
+DP 32:07:06 N76:33:58 E
+DP 32:07:13 N76:33:52 E
+DP 32:07:13 N76:33:01 E
+DP 32:07:03 N76:32:43 E
+DP 32:06:36 N76:32:27 E
+
+AC CTR
+AN NOFLY AIRPORT
+AL GND
+AH UNLIMITED
+DP 32:02:56 N76:13:31 E
+DP 32:02:56 N76:19:50 E
+DP 32:10:14 N76:19:43 E
+DP 32:11:31 N76:18:59 E
+DP 32:12:01 N76:17:20 E
+DP 32:13:24 N76:09:25 E
+DP 32:09:08 N76:09:03 E
+DP 32:09:30 N76:12:34 E
+DP 32:08:03 N76:12:54 E
+DP 32:07:14 N76:14:13 E
